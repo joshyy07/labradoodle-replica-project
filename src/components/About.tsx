@@ -16,7 +16,7 @@ const About = () => {
               About Our Family
             </h2>
             <p className="text-gray-700 font-inter mb-6 leading-relaxed">
-              Welcome to Rellie Labradoodles, where we've dedicated ourselves to raising 
+              Welcome to Lila Labradoodles, where we've dedicated ourselves to raising 
               exceptional Australian Labradoodle puppies with love and care. Our journey 
               began with a passion for these intelligent, affectionate dogs and has grown 
               into a commitment to matching perfect companions with loving families.
