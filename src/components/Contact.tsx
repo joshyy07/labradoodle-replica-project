@@ -8,7 +8,7 @@ const Contact = () => {
             Contact Us
           </h2>
           <p className="text-gray-600 font-inter max-w-2xl mx-auto">
-            Interested in adding a Rellie Labradoodle to your family? We'd love to hear from you!
+            Interested in adding a Lila Labradoodle to your family? We'd love to hear from you!
           </p>
         </div>
 
